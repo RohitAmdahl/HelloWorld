@@ -11,7 +11,7 @@ public class MyFirstClass { // public keyword is access modifier.
         if (myVariable != 20){ // logical operator
             System.out.println("you have the value 25");
         }
-        if ((myVariable != myAnotherVariable) && (myAnotherVariable >= 25)){ // logical operator
+        if ((myVariable != myAnotherVariable) && (myAnotherVariable >= 25)){ // logical operator.
             System.out.println("myAnotherVariable is more then 25 ");
         }
 
