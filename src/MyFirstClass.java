@@ -5,17 +5,6 @@ public class MyFirstClass { // public keyword is access modifier.
     {
         System.out.println("Hello Rohit welcome to thw Java world");
 
-        // if conditional statement.
-        int myVariable = 25;
-        int myAnotherVariable = 101;// Integer always will be the whole number.
-        if (myVariable != 20){ // logical operator
-            System.out.println("you have the value 25");
-        }
-        if ((myVariable != myAnotherVariable) && (myAnotherVariable >= 25)){ // logical operator.
-            System.out.println("myAnotherVariable is more then 25 ");
-        }
-
-
     }
     // static is java keyword that needs an understanding of OOP concept.
     // you can also create your own method.
